@@ -1,27 +1,15 @@
 # Angular8tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+This project was forked from [thoughtram Change Detection Demo](https://github.com/thoughtram/angular2-change-detection-demos) which was based on `Angular 2`
 
-## Development server
+It demonstrate how `change detection` in angular by visualizing component tree.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## What I have done
 
-## Code scaffolding
+I've just upgraded the project to `Angular 8`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Add a little sign on component iu which takes data via `@Input()`
 
-## Build
+## To Run
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Run `yarn start` to starting application

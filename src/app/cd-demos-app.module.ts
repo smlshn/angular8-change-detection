@@ -56,5 +56,5 @@ const appRoutes: Routes = [
     ],
     exports: [RouterModule],
 })
-export class AppModule {
+export class CdDemosAppModule {
 }
